@@ -28,10 +28,8 @@
 
 <body>
 
-
-
 	<div class="container my-5 d-flex justify-content-center">
-		<form method="POST" action="router.php" class="w-30 p-3 mb-2 opacity-85 rounded-5 text-white">
+		<form method="POST" action="router.php" class="w-30 p-3 mb-2 opacity-75 rounded-5 text-white">
 			<h1>Login to the System</h1>
 			<div class="mb-3">
 				<label class="form-label">Username</label>
