@@ -50,7 +50,7 @@
 				</select>
 			</div>
 			<div class="mb-3">
-				<button type="submit" class="btn btn-light" name="login_user">Login</button>
+				<button type="submit" class="btn btn-light" name="login">Login</button>
 				<a class="text-decoration-none link-primary mx-5" href="register.php">Create an account!</a></p>
 
 			</div>
